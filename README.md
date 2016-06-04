@@ -1,1 +1,1 @@
-# project-temp-name
+# EQ (or other name)
